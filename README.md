@@ -3,7 +3,7 @@
 # Hi, I’m Vinit Rajwani! 👋
 Welcome to my GitHub profile!
 
-Crafting my skills in web development — Learning from  <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?srsltid=AfmBOorp3InjRpcdDSYcAQ_3lHS0J3lDJybA_AVdL5tgyGMEvQN1KV5J&couponCode=KEEPLEARNING">Angela Yu’s 2024 Bootcamp</a>
+Aspiring full-stack web developer — constantly building, learning, and leveling up.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rajwani_vinit01) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinit-rajwani-8468b026b/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajwanivinit560) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/RajwaniVinit) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajwanivinit560@gmail.com)
