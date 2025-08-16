@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stack-explorer&label=Profile%20views&color=0e75b6&style=flat" alt="stack-explorer" /> </p>
 
-- 🌱 I’m currently learning **Web Best Practices**
+- 🌱 I’m currently learning **Web Best Practices && Different Tools**
 
 - 👨‍💻 All of my projects are available at [https://frontend-qbob.onrender.com/](https://frontend-qbob.onrender.com/)
 
