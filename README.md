@@ -1,6 +1,6 @@
 ## 💫 About Me:
 ### 👋 Hi, I’m @Stack-Explorer<br>
-<br>I am a developer focused on mastering **Clean Code** and **Software Design Patterns**.<br>I believe that code should not only work but be maintainable and elegant.<br> <br> - 🌱 **Currently Learning:** Advanced Clean Code practices, SOLID principles, and Test-Driven Development (TDD).<br>- 🤝 **Looking to Collaborate:** I’m eager to contribute to Open Source projects where I can apply best practices and learn from experienced mentors.<br>- 💬 **Ask me about:** Improving code readability<br>- 📫 **How to reach me:** rajwanivinit560@gmail.com<br><br>---<br>"Writing clean code is what you must do in order to call yourself a professional."
+<br>I am a developer focused on mastering **Clean Code** and **Software Design Patterns**.<br>I believe that code should not only work but be maintainable and elegant.<br> <br> - 🌱 **Currently Learning:** Advanced Clean Code practices and Test-Driven Development (TDD).<br>- 🤝 **Looking to Collaborate:** I’m eager to contribute to Open Source projects where I can apply best practices and learn from experienced mentors.<br>- 💬 **Ask me about:** Improving code readability<br>- 📫 **How to reach me:** rajwanivinit560@gmail.com<br><br>---<br>"Writing clean code is what you must do in order to call yourself a professional."
 
 
 ### 🌐 Socials:
